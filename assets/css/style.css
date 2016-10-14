@@ -1,0 +1,154 @@
+body{
+  margin: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16px;
+  color: #525252;
+}
+
+p{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h2, h3{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.apnavbarcustom{
+  font-family: 'Miriam Libre', sans-serif;
+  background-color: #ffffff;
+}
+
+.ap-containercustom{
+  width: 960px;
+}
+
+.navbar-default .navbar-brand{
+  color: #f4645f;
+}
+
+.aplogo{
+  border-right: 1px solid #dee0df;
+}
+
+.collnavright{
+  border-left: 1px solid #dee0df;
+}
+
+.apnavbarcustom{
+  border-bottom: 1px solid #dee0df;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+  color: #f4645f;
+  background-color: #ffffff;
+}
+
+/*intro*/
+.intro{
+  text-align: center;
+  height: 100vh;
+}
+
+.apuserpic img{
+  margin: 140px 0 0 0;
+  width: 180px;
+  height: 180px;
+  border: 2px solid #e7e7e7;
+}
+
+.apname{
+  margin: 60px 0 0 0;
+  letter-spacing: 5px;
+  font-weight: 200;
+}
+
+.apnametext{
+  font-family: 'Miriam Libre', sans-serif;
+  top: 5px;
+  font-size: 30px;
+  border-bottom: 2px solid #525252;
+}
+
+.apskilldesc{
+  font-family: 'Miriam Libre', sans-serif;
+  color: #aeaeae;
+}
+
+.callout{
+  border-bottom: 1px solid #dee0df;
+  color: #f4645f;
+  text-align: center;
+  margin: 100px 0 60px 0;
+}
+
+.text{
+  top: 10px;
+  background: #ffffff;
+  padding: 10px 20px;
+  position: relative;
+  font-weight: bold;
+}
+
+.calloutportofolio{
+  border-bottom: 1px solid #ffffff;
+  color: #f4645f;
+  text-align: center;
+  margin: 80px 0 60px 0;
+}
+
+.textportofolio{
+  top: 10px;
+  background: #f0f2f1;
+  padding: 10px 20px;
+  position: relative;
+  font-weight: bold;
+}
+
+/*service*/
+.service{
+  height: 100vh;
+}
+
+.colcustom{
+  margin-bottom: 15px;
+}
+
+.aprow{
+  height: 200px;
+  border: 1px solid #dee0df;
+}
+
+.callout-head{
+  width: 100%;
+  height: 60px;
+}
+
+.callout-title{
+  float: left;
+  margin-top: 25px;
+  margin-left: 25px;
+}
+
+.callout-icon{
+  float: right;
+  width: 35px;
+  margin-top: 25px;
+  margin-right: 25px;
+}
+
+.ptitle{
+  margin-top: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+/*portofolio*/
+.portofolio{
+  height: 100vh;
+  background-color: #f0f2f1;
+}
+
+/*contact*/
+.contact{
+  height: 100vh;
+}
