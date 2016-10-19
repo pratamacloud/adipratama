@@ -113,6 +113,12 @@ h2, h3{
   margin-bottom: 15px;
 }
 
+.service-title{
+  font-size: 20px;
+  text-align: center;
+  margin: 40px 40px;
+}
+
 .aprow{
   height: 200px;
   border: 1px solid #dee0df;
@@ -151,4 +157,26 @@ h2, h3{
 /*contact*/
 .contact{
   height: 100vh;
+}
+
+.icon-contact{
+  width: 28px;
+}
+
+.callout-contactleft{
+  margin: 15px;
+}
+
+.callout-contactright{
+  margin: 15px;
+}
+
+/*footer*/
+.footer{
+  background-color: #f0f2f1;
+}
+
+.callout-footer{
+  text-align: center;
+  margin: 15px;
 }

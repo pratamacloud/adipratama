@@ -61,6 +61,10 @@
           <span class="text">SERVICE</span>
         </div>
 
+        <div class="service-title">
+          What am I doing ?
+        </div>
+
         <div class="row">
           <div class="col-md-6 colcustom">
             <div class="aprow">
@@ -101,18 +105,76 @@
         <div class="callout">
           <span class="text">CONTACT</span>
         </div>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="callout-contactleft">
+              <div class="media">
+                <div class="media-left media-middle">
+                  <a href="#">
+                    <img class="media-object icon-contact" src="assets\img\location.png" alt="...">
+                  </a>
+                </div>
+                <div class="media-body">
+                  Jl. Flamboyan No 44 - Srengseng, Kebon Jeruk - Jakarta Barat, 11630
+                </div>
+              </div>
+              <div class="media">
+                <div class="media-left media-middle">
+                  <a href="#">
+                    <img class="media-object icon-contact" src="assets\img\email.png" alt="...">
+                  </a>
+                </div>
+                <div class="media-body">
+                  pratamacloud@gmail.com
+                </div>
+              </div>
+              <div class="media">
+                <div class="media-left media-middle">
+                  <a href="#">
+                    <img class="media-object icon-contact" src="assets\img\phone.png" alt="...">
+                  </a>
+                </div>
+                <div class="media-body">
+                  +6285692809066
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="callout-contactright">
+              <form method="post" action="controller\sendemail.php">
+                <div class="form-group">
+                  <input type="name" name="name" class="form-control" id="exampleInputNames1" placeholder="Name">
+                </div>
+                <div class="form-group">
+                  <input type="email" name="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+                </div>
+                <div class="form-group">
+                  <input type="subject"  name="subject" class="form-control" id="exampleInputSubject1" placeholder="Subject">
+                </div>
+                <div class="form-group">
+                  <textarea name="message" class="form-control" rows="5" placeholder="Message"></textarea>
+                </div>
+                <button type="submit" class="btn btn-default btn-lg btn-block">Send</button>
+              </form>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
 
-    <footer>
+    <footer class="footer">
       <div class="container ap-containercustom">
-        <p>
-          &copy; 2016 adipratama.com. All Rights Reserved.
-        </p>
-        <p>
-          Adi Pratama
-        </p>
-      </div>
+        <div class="callout-footer">
+          <p>
+            &copy; 2016 adipratama.com. All Rights Reserved.
+          </p>
+          <p>
+            Adi Pratama
+          </p>
+        </div>
+        </div>
     </footer>
 
     <script src="js\jquery.min.js" charset="utf-8"></script>
