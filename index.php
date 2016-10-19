@@ -97,6 +97,34 @@
         <div class="calloutportofolio">
           <span class="textportofolio">PORTOFOLIO</span>
         </div>
+
+        <div class="portofolio1">
+          <div class="row">
+            <div class="col-md-6">
+              <div class="descport">
+                <h4 class="titleport">PHP Developer</h4>
+                Create a Website using the Framework and the latest Technology with a Professional appearance and Responsive.
+              </div>
+            </div>
+            <div class="col-md-6">
+              <img class="imgport1" src="assets\img\portofolio\portofolio1.PNG" alt="" />
+            </div>
+          </div>
+        </div>
+        <div class="portofolio2">
+          <div class="row">
+            <div class="col-md-6">
+              <img class="imgport2" src="assets\img\portofolio\portofolio2.PNG" alt="" />
+            </div>
+            <div class="col-md-6">
+              <div class="descport">
+                <h4 class="titleport">IT Network</h4>
+                Install and Configure the server, the Internet, WAN, LAN, configuration RouterBoard MikroTik and Cisco, Switch, Firewall and Security, Web Server, Port Fordwarding, DDNS, Mail Server and Trobleshoot.
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div>
     </section>
 
@@ -116,7 +144,7 @@
                   </a>
                 </div>
                 <div class="media-body">
-                  Jl. Flamboyan No 44 - Srengseng, Kebon Jeruk - Jakarta Barat, 11630
+                  Jl. Flamboyan No. 44 RT 007/RW 02, Kelurahan Srengseng kecamatan kembangan, Jakarta Barat. Indonesia, 11630.
                 </div>
               </div>
               <div class="media">
@@ -136,7 +164,7 @@
                   </a>
                 </div>
                 <div class="media-body">
-                  +6285692809066
+                  +62 856 9280 9066
                 </div>
               </div>
             </div>

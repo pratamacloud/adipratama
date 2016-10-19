@@ -154,6 +154,34 @@ h2, h3{
   background-color: #f0f2f1;
 }
 
+.portofolio1{
+  background-color: #fff;
+  border: 1px solid #dbdcdb;
+}
+
+.portofolio2{
+  background-color: #fff;
+  border: 1px solid #dbdcdb;
+}
+
+.imgport1{
+  width: 100%;
+  border-left: 1px solid #dbdcdb;
+}
+
+.imgport2{
+  width: 100%;
+  border-right: 1px solid #dbdcdb;
+}
+
+.titleport{
+  color: #f4645f;
+}
+
+.descport{
+  margin: 40px;
+}
+
 /*contact*/
 .contact{
   height: 100vh;

@@ -16,6 +16,13 @@
     height: auto;
   }
 
+
+
+  /*service*/
+  .service{
+    height: auto;
+  }
+
   .callout{
     margin: 70px 0 25px 0;
   }
@@ -44,20 +51,25 @@
     margin-right: 25px;
   }
 
-  /*service*/
-  .service{
-    height: auto;
-  }
-
-  /*.service-title{
-    font-size: 30px;
-    text-align: center;
-    margin: 20px 20px;
-  }*/
-
   /*portofolio*/
   .portofolio{
     height: auto;
+  }
+
+  .portofolio2{
+    margin-bottom: 15px;
+  }
+
+  .imgport1{
+    width: 100%;
+    border-top: none;
+    border-top: 1px solid #dbdcdb;
+  }
+
+  .imgport2{
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid #dbdcdb;
   }
 
   /*contact*/
