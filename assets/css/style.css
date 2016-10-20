@@ -201,11 +201,11 @@ h2, h3{
 
 /*footer*/
 .footer{
-  background-color: #f0f2f1;
+  background-color: #fafafa;
 }
 
 .menu-footer{
-  margin-top: 25px;
+  margin: 68px 0 22px 0;
 }
 
 .menu-footer ul{
@@ -234,7 +234,6 @@ h2, h3{
 
 .callout-footer{
   text-align: center;
-  margin: 15px;
 }
 
 .copyright{
@@ -244,7 +243,7 @@ h2, h3{
 .namefooter{
   font-family: 'Chicle', cursive;
   font-size: 28px;
-  margin-top: -10px;
+  margin-bottom: 42px;
 }
 
 /*page load*/

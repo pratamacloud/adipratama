@@ -77,4 +77,12 @@
     height: auto;
   }
 
+  /*footer*/
+  .menu-footer{
+    display: none;
+  }
+
+  .callout-footer{
+    margin-top: 25px;
+  }
 }

@@ -210,6 +210,7 @@
           <p class="copyright">
             &copy; 2016 adipratama.com. All Rights Reserved.
           </p>
+          Created By
           <p class="namefooter">
             Adi Pratama
           </p>
