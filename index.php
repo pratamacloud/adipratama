@@ -9,10 +9,13 @@
 
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,400i,600,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Miriam+Libre:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Chicle" rel="stylesheet">
 
     <link rel="stylesheet" href="css\bootstrap.min.css" media="screen" title="no title">
     <link rel="stylesheet" href="assets\css\style.css" media="screen" title="no title">
     <link rel="stylesheet" href="assets\css\mstyle.css" media="screen" title="no title">
+
+    <script src="assets\js\pace.min.js" charset="utf-8"></script>
   </head>
   <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
@@ -194,11 +197,20 @@
 
     <footer class="footer">
       <div class="container ap-containercustom">
+        <div class="menu-footer">
+          <ul>
+            <li><a class="page-scroll" href="#intro">Home</a></li>
+            <li><a class="page-scroll" href="#service">service</a></li>
+            <li><a class="page-scroll" href="#portofolio">Portofolio</a></li>
+            <li><a class="page-scroll" href="#contact">Contact</a></li>
+          </ul>
+        </div>
+
         <div class="callout-footer">
-          <p>
+          <p class="copyright">
             &copy; 2016 adipratama.com. All Rights Reserved.
           </p>
-          <p>
+          <p class="namefooter">
             Adi Pratama
           </p>
         </div>

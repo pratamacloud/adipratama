@@ -204,7 +204,69 @@ h2, h3{
   background-color: #f0f2f1;
 }
 
+.menu-footer{
+  margin-top: 25px;
+}
+
+.menu-footer ul{
+  margin: 0 auto;
+  width: 480px;
+  height: 40px;
+}
+
+.menu-footer li{
+  float: left;
+  margin: 0;
+  width: 100px;
+  text-align: center;
+  list-style: none;
+}
+
+.menu-footer a{
+  font-family: 'Miriam Libre', sans-serif;
+  color: #525252;
+  text-decoration: none;
+}
+
+.menu-footer a:hover{
+  color: #f4645f;
+}
+
 .callout-footer{
   text-align: center;
   margin: 15px;
+}
+
+.copyright{
+  color: #aeaeae;
+}
+
+.namefooter{
+  font-family: 'Chicle', cursive;
+  font-size: 28px;
+  margin-top: -10px;
+}
+
+/*page load*/
+.pace {
+  -webkit-pointer-events: none;
+  pointer-events: none;
+
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.pace-inactive {
+  display: none;
+}
+
+.pace .pace-progress {
+  background: #f4645f;
+  position: fixed;
+  z-index: 2000;
+  top: 0;
+  right: 100%;
+  width: 100%;
+  height: 2px;
 }
